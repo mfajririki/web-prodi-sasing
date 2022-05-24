@@ -50,10 +50,13 @@
             <p class="subJudul">Kerja Sama</p>
         </div>
         <div class="row mt-3">
-            @foreach ($kerja_sama as $ks)
-                <div class="col text-center"><img src={{ $ks->photo }} alt="" class="imageKerjaSama">
-                </div>
-            @endforeach
+            <div class="col text-center"><img src={{ asset('assets/images/CISCO_1.png') }} alt="" class="imageKerjaSama">
+            </div>
+            <div class="col text-center"><img src={{ asset('assets/images/unsri_1.png') }} alt="" class="imageKerjaSama">
+            </div>
+            <div class="col text-center"><img src={{ asset('assets/images/foresec_1.png') }} alt=""
+                    class="imageKerjaSama">
+            </div>
         </div>
     </div>
 

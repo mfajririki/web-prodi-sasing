@@ -19,7 +19,7 @@
                             Tentang
                         </a>
                         <ul class="dropdown-menu bg-primary" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item text-white" href="/tentangprodi">Tentang Prodi Sastra
+                            <li><a class="dropdown-item text-white" href="/tentangprodi">Tentang Prodi 
                                     Inggris</a></li>
                             <li><a class="dropdown-item text-white" href="/visimisitujuan">Visi, Misi & Tujuan</a></li>
                             <li><a class="dropdown-item text-white" href="/stafpengajar">Staf Pengajar</a></li>
